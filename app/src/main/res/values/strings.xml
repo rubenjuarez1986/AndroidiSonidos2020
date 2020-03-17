@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">idSonidos</string>
     <string name="sonido01">dance_monkey</string>
+    <string name="sonido02">billy_ellis</string>
+    <string name="sonido03">karol_g</string>
+    <string name="sonido04">te_sale</string>
 
 </resources>
